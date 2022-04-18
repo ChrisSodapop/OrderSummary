@@ -1,0 +1,26 @@
+body {
+    height: 100vh;
+    width: 1440px;
+}
+
+
+.heros {
+    display: flex;
+    border-radius: 25px 25px 0px 0px;
+    margin: auto;
+    height: 250px;
+    width: 350px;
+    margin-top: -350px;
+}
+
+.title {
+    font-family: 'Outfit', sans-serif;
+    text-align: center;
+    font-size: 16px;
+}
+
+.paraph {
+    font-family: 'Outfit', sans-serif;
+    text-align: center;
+    font-size: 16px;
+}
